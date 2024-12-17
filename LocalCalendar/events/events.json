@@ -1,0 +1,16 @@
+{
+
+  "events" : [
+    {
+      "title": "Meet pentru proiect",
+      "start": "2024-12-17T10:00:00",
+      "alert": "2024=12=17T03:40:00"
+    },
+    {
+      "title": "Iesire cu colegii",
+      "start": "2024-12-17T13:00:00",
+      "alert": "2024-12-17T12:30:00"
+    }
+  ]
+
+}
