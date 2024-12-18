@@ -11,3 +11,7 @@ G
 alerts/alert_manager.py,7\a\7afaffdb7876c4dcea53129044d691c723acc703
 7
 main.py,f\1\f1bdda93d9a278e358509d498e17d97764c1fb29
+G
+logs/local_calendar.log,d\3\d328517cab1db9bbf21dbf100e7215414a9c0c30
+E
+events/intalnire.json,8\b\8bdb952bd24efe0e95f3c9da99ab74e486f293e8
