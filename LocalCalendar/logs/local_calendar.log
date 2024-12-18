@@ -93,3 +93,45 @@
 2024-12-18 02:38:00,392 - INFO - Fisierul ICS a fost procesat: events\aniversare.ics
 2024-12-18 02:38:00,392 - INFO - Fisier JSON procesat: events\intalnire.json
 2024-12-18 02:38:00,393 - INFO - Alerte generate cu succes.
+2024-12-18 02:40:27,755 - INFO - Fisierul ICS a fost procesat: events\aniversare.ics
+2024-12-18 02:40:27,756 - INFO - Fisier JSON procesat: events\intalnire.json
+2024-12-18 02:40:27,757 - INFO - Alerte generate cu succes.
+2024-12-18 02:41:12,475 - INFO - Fisierul ICS a fost procesat: events\aniversare.ics
+2024-12-18 02:41:12,476 - INFO - Fisier JSON procesat: events\intalnire.json
+2024-12-18 02:41:12,478 - INFO - Alerte generate cu succes.
+2024-12-18 10:59:02,789 - INFO - Fisierul ICS a fost procesat: events\aniversare.ics
+2024-12-18 10:59:02,790 - INFO - Fisier JSON procesat: events\intalnire.json
+2024-12-18 10:59:02,790 - INFO - Nu exista alerte pentru acest interval.
+2024-12-18 10:59:38,498 - INFO - Fisierul ICS a fost procesat: events\aniversare.ics
+2024-12-18 10:59:38,499 - INFO - Fisier JSON procesat: events\intalnire.json
+2024-12-18 10:59:38,499 - INFO - Nu exista alerte pentru acest interval.
+2024-12-18 10:59:47,496 - INFO - Fisierul ICS a fost procesat: events\aniversare.ics
+2024-12-18 10:59:47,496 - INFO - Fisier JSON procesat: events\intalnire.json
+2024-12-18 10:59:47,497 - INFO - Nu exista alerte pentru acest interval.
+2024-12-18 11:00:04,557 - INFO - Fisierul ICS a fost procesat: events\aniversare.ics
+2024-12-18 11:00:04,558 - INFO - Fisier JSON procesat: events\intalnire.json
+2024-12-18 11:00:04,560 - INFO - Alerte generate cu succes.
+2024-12-18 11:02:02,622 - INFO - Fisierul ICS a fost procesat: events\aniversare.ics
+2024-12-18 11:02:02,623 - INFO - Fisier JSON procesat: events\intalnire.json
+2024-12-18 11:02:02,624 - INFO - Alerte generate cu succes.
+2024-12-18 11:02:06,656 - INFO - Fisierul ICS a fost procesat: events\aniversare.ics
+2024-12-18 11:02:06,657 - INFO - Fisier JSON procesat: events\intalnire.json
+2024-12-18 11:02:06,658 - INFO - Alerte generate cu succes.
+2024-12-18 11:02:59,542 - INFO - Fisierul ICS a fost procesat: events\aniversare.ics
+2024-12-18 11:02:59,543 - INFO - Fisier JSON procesat: events\intalnire.json
+2024-12-18 11:02:59,544 - INFO - Alerte generate cu succes.
+2024-12-18 11:03:22,328 - INFO - Fisierul ICS a fost procesat: events\aniversare.ics
+2024-12-18 11:03:22,328 - INFO - Fisier JSON procesat: events\intalnire.json
+2024-12-18 11:03:22,330 - INFO - Alerte generate cu succes.
+2024-12-18 11:44:18,150 - INFO - Fisierul ICS a fost procesat: events\aniversare.ics
+2024-12-18 11:44:18,151 - INFO - Fisier JSON procesat: events\intalnire.json
+2024-12-18 11:44:18,152 - INFO - Alerte generate cu succes.
+2024-12-18 11:44:49,680 - INFO - Fisierul ICS a fost procesat: events\aniversare.ics
+2024-12-18 11:44:49,680 - INFO - Fisier JSON procesat: events\intalnire.json
+2024-12-18 11:44:49,681 - INFO - Alerte generate cu succes.
+2024-12-18 11:45:06,673 - INFO - Fisierul ICS a fost procesat: events\aniversare.ics
+2024-12-18 11:45:06,674 - INFO - Fisier JSON procesat: events\intalnire.json
+2024-12-18 11:45:06,674 - INFO - Alerte generate cu succes.
+2024-12-18 11:45:29,699 - INFO - Fisierul ICS a fost procesat: events\aniversare.ics
+2024-12-18 11:45:29,700 - INFO - Fisier JSON procesat: events\intalnire.json
+2024-12-18 11:45:29,701 - INFO - Alerte generate cu succes.

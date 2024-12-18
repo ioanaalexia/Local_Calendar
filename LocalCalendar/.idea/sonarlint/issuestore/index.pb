@@ -15,3 +15,6 @@ G
 logs/local_calendar.log,d\3\d328517cab1db9bbf21dbf100e7215414a9c0c30
 E
 events/intalnire.json,8\b\8bdb952bd24efe0e95f3c9da99ab74e486f293e8
+:
+
+alerts.log,c\6\c661b85cd03fd01abcbf8f774d98a4e57b5260a9
